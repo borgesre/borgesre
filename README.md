@@ -1,4 +1,4 @@
-- 👋 Hola, soy @borgesre (Rafael E. Borges), soy Estadístico con casi 30 años de expeeiencia profesional y Profesor Titular en la Escuela de Estadistica de la Universidad de Los Andes, Mérida, Venezuela, donde además soy Jefe del Departamento de Estadística.
+- 👋 Hola, soy @borgesre (Rafael E. Borges), soy Estadístico con más 30 años de experiencia profesional y Profesor Titular en la Escuela de Estadistica de la Universidad de Los Andes, Mérida, Venezuela, donde además soy Jefe del Departamento de Estadística.
 - 👀 Estoy interesado en el uso de las herramientas computacionales (lenguajes, paquetes) para hacer análisis de datos
 - 🌱 Aunque tengo algunos años de experiencia en diversas herramientas, sigo aprendiendo algunas de ellas, por ejemplo Julia, y sobre la aplicación de las mismas en tópicos avanzados.
 - 💞️ Me gustaría colaborar en proyectos de Análisis de Datos y en la Difusión del uso de las herramientas, a través de cursos, webinars y otros medios.
